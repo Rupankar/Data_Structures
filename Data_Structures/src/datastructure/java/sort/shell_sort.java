@@ -8,8 +8,9 @@ public class shell_sort {
 
         for(int gap=arr.length/2;gap>0;gap=gap/2)
         {
-            for(int i=gap;i<arr.length;i=i+gap)
+            for(int i=gap;i<arr.length;i++)
             {
+
                 int currEle = arr[i];
 
                 int j;
