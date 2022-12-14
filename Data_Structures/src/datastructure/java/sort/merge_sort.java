@@ -23,8 +23,8 @@ public class merge_sort {
 
         int mid = (start+end)/2;
 
-        divide(array,start,mid);
-        divide(array,mid,end);
+        divide(array,start,mid); //divide the left array
+        divide(array,mid,end);   // divide the right array
         sort(array,start,mid,end);
     }
 
