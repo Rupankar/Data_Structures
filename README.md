@@ -1,6 +1,6 @@
-# Data_Structures
+# Data_Structures and Algorithms in Java
 
-Data Structures in Java
+Data_Structures and Algorithms in Java
 
 Sorting:
 1. Bubble Sort
