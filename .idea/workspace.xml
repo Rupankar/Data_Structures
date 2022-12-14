@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68835b7-67e6-49b5-aa76-e4757ea219e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/merge_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/shell_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/shell_sort.java" afterDir="false" />
+    <list default="true" id="c68835b7-67e6-49b5-aa76-e4757ea219e6" name="Changes" comment="Edited shell_sort.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/merge_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +44,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671043377310</updated>
-      <workItem from="1671043378829" duration="1604000" />
+      <workItem from="1671043378829" duration="1940000" />
     </task>
+    <task id="LOCAL-00001" summary="Added merge sort">
+      <created>1671046403570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046403570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edited shell_sort.java">
+      <created>1671046444480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046444480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edited shell_sort.java">
+      <created>1671046461378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046461378</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added merge sort" />
+    <MESSAGE value="Edited shell_sort.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited shell_sort.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
