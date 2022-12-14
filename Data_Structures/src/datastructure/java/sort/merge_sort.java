@@ -15,9 +15,9 @@ public class merge_sort {
 
     }
 
-    public static void divide(int[] array,int start,int end)
+    public static void divide(int[] array,int start,int end) //recursively divide the array
     {
-        if(end-start<2) {
+        if(end-start<2) { //if only one element in the array
             return;
         }
 
@@ -30,7 +30,7 @@ public class merge_sort {
 
     public static void sort(int[] array, int start,int mid, int end)
     {
-        if(array[mid-1]<array[mid])
+        if(array[mid-1]<array[mid]) // if last element of the left array is smallter than the right array; both array already sorted
         {
             return;
         }
@@ -57,11 +57,8 @@ public class merge_sort {
                 j++;
             }
         }
-
-        System.arraycopy(array,i,array,start+tempIndex,mid-i);
-        System.arraycopy(temp,0,array,start,tempIndex);
-
-
+        System.arraycopy(array,i,array,start+tempIndex,mid-i); //copy the left over elements from the left array
+        System.arraycopy(temp,0,array,start,tempIndex); //copy the temp array into the main array
     }
 
 }
