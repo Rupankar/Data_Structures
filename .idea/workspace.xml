@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68835b7-67e6-49b5-aa76-e4757ea219e6" name="Changes" comment="Edited shell_sort.java">
+    <list default="true" id="c68835b7-67e6-49b5-aa76-e4757ea219e6" name="Changes" comment="Edited merge_sort.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/merge_sort.java" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671043377310</updated>
-      <workItem from="1671043378829" duration="1940000" />
+      <workItem from="1671043378829" duration="2107000" />
     </task>
     <task id="LOCAL-00001" summary="Added merge sort">
       <created>1671046403570</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671046461378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Edited merge_sort.java">
+      <created>1671046677228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046677228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edited merge_sort.java">
+      <created>1671046702491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046702491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +90,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added merge sort" />
     <MESSAGE value="Edited shell_sort.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited shell_sort.java" />
+    <MESSAGE value="Edited merge_sort.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited merge_sort.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
