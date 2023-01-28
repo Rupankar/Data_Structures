@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68835b7-67e6-49b5-aa76-e4757ea219e6" name="Changes" comment="Edited merge_sort.java">
-      <change afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/quick_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data_Structures/datastructure/java/sort/quick_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/src/datastructure/java/sort/counting_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures/datastructure/java/sort/merge_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures/datastructure/java/sort/merge_sort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,8 @@
       <workItem from="1671043378829" duration="2729000" />
       <workItem from="1671047999466" duration="28000" />
       <workItem from="1672047344926" duration="2367000" />
-      <workItem from="1674403555995" duration="321000" />
+      <workItem from="1674403555995" duration="1569000" />
+      <workItem from="1674932569994" duration="2672000" />
     </task>
     <task id="LOCAL-00001" summary="Added merge sort">
       <created>1671046403570</created>
@@ -107,11 +106,29 @@
       <option name="project" value="LOCAL" />
       <updated>1671046821390</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Edited merge_sort.java">
+      <created>1674403890501</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674403890501</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added merge sort" />
