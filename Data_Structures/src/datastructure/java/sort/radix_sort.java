@@ -1,7 +1,6 @@
 package datastructure.java.sort;
 
 public class radix_sort {
-
     public static void main(String[] args) {
 
         int[] arr = {4725,4586,1330,8792,1594,5729};
@@ -55,5 +54,4 @@ public class radix_sort {
     {
         return value/ (int) Math.pow(10,position) % radix;
     }
-
 }
